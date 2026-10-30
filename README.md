@@ -234,4 +234,4 @@ Aloft is available as a full free version, with all features and updates include
 Ready to embark on your sky-bound adventure? **Download Aloft for free today and start exploring!**
 
 ---
-**Last updated:** 2026-10-29 22:19:44 UTC
+**Last updated:** 2026-10-30 02:20:10 UTC
